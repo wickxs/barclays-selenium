@@ -1,0 +1,9 @@
+drivers:
+  chrome:
+    driver: 'src/test/resources/drivers/win/chromedriver'
+
+web:
+  applications:
+    rukovoditel:
+      environments:
+        url: 'seznam.cz'
